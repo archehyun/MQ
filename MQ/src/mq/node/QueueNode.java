@@ -9,6 +9,8 @@ package mq.node;
  */
 public class QueueNode
 {
+	
+	//
 	public static final short NULL = -9999;
 	
 	private QueueNode prev; //doubly linked list
